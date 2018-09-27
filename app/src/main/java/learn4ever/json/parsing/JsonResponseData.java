@@ -1,6 +1,13 @@
 package learn4ever.json.parsing;
 
 public class JsonResponseData {
+
+   /* { JSON data
+        "time": "02:24:35 PM",
+            "milliseconds_since_epoch": 1538058275670,
+            "date": "09-27-2018"
+    }*/
+
     private String time;
 
     private String milliseconds_since_epoch;
